@@ -1,16 +1,18 @@
-## Hi there 👋
+# Matthew Tomas
 
-<!--
-**MatthewTomas/MatthewTomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work at the intersection of applied AI, research, and data.
 
-Here are some ideas to get you started:
+I build systems that help research teams find, evaluate, organize, and act on complex information. My work includes AI-assisted research pipelines, structured evidence review, human-in-the-loop workflows, predictive modeling, research automation, and decision-support tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My background is in data analysis, reporting, automation, and data visualization. I have worked with Python, SQL, natural language processing, data pipelines, geospatial tools, and interactive visualization.
+
+## Areas of interest
+
+* Reliable AI-assisted research
+* Evidence synthesis and evaluation
+* Human-in-the-loop AI systems
+* Predictive modeling and decision support
+* Research workflow automation
+* Political and election research
+* Animal welfare research
+* Data visualization and information design
